@@ -52,6 +52,5 @@ non-functional binary fails the check.
 
 - Owning skill: `/charly-infrastructure:sqlite`
 - Companion CLI bundle: `/charly-coder:dev-tools`
-- Bundle: `/charly-openclaw:openclaw-full`
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
